@@ -38,6 +38,8 @@ export default class facbook1 extends Component {
                }
              }
              onLogoutFinished={() => alert("logout.")}/>
+             <Text>HeEEEEEEEllo</Text>
+             <Text>XIN chao</Text>
       </View>
     );
   }
